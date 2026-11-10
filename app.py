@@ -7,7 +7,7 @@ load_dotenv()
 
 
 client = Groq(api_key=os.getenv("groq_api_chave"))
-
+#gere uma chave gratis no site (https://console.groq.com/keys) e coloque no groq api chave acima.
 
 restaurante_da_dona_antonia = """
 Informações do Delivery (Simulação):
