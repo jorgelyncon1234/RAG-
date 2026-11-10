@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-client = Groq(api_key=os.getenv("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"))
+client = Groq(api_key=os.getenv("groq_api_chave"))
 
 
 restaurante_da_dona_antonia = """
