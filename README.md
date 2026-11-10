@@ -1,6 +1,8 @@
 #  RAG Assistant Restaurante
 Este projeto consiste em um assistente inteligente baseado em **RAG (Retrieval-Augmented Generation)** desenvolvido para responder dúvidas sobre cardápios e pedidos, simulando um cenário real, como um cliente pedindo o cardápio mais pedido ou perguntando alguma dúvida.
 
+mas também pode ser usado para modelos mais profundos em empresas, dado as informações corretas.
+
 ##  Tecnologias Utilizadas
 * **Python**
 * **Groq API** (do open.)
