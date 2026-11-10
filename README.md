@@ -11,3 +11,5 @@ Este projeto consiste em um assistente inteligente baseado em **RAG (Retrieval-A
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/jorgelyncon1234/RAG-.git]
+ 2,  pegue uma chave api grátis no groq, infelizmente por motivos de segurança decidi não deixar a que eu havia posto no código, ela ainda está mas não irá funcionar
+ 3, coloque a chave api na chave api.
